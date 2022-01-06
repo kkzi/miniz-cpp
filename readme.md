@@ -16,7 +16,6 @@ update miniz to v2.2.0 from [miniz](https://github.com/richgel999/miniz)
 
 <br/>
 <br/>
-<br/>
 Read from zip file
 
 ```cpp
@@ -33,7 +32,8 @@ int main()
 ```
 
 <br/>
-Write to zip file
+Write to zip file 
+
 ```cpp
 
 #include <miniz_cpp.hpp>
@@ -54,6 +54,7 @@ int main()
 
 <br/>
 Streams
+
 ```cpp
 #include <miniz_cpp.hpp>
 int main()
